@@ -1,5 +1,5 @@
 
-# Pharos V2 Bot
+# Pharos S2 Bot
 
 Automation bot for interacting with the PharosV2 testnet.
 
