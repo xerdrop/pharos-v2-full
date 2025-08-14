@@ -1,7 +1,7 @@
 
 # Pharos S2 Bot
 
-Automation bot for interacting with the PharosV2 testnet.
+Automation bot for interacting with the PharosV2 testnet sith full tasks 
 
 ## Installation
 
