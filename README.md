@@ -1,5 +1,5 @@
 
-# Pharos S2 Bot
+# Pharos S2 Bot with full tasks 
 
 Automation bot for interacting with the PharosV2 testnet sith full tasks 
 
